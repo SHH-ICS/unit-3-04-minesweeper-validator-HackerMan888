@@ -15,3 +15,4 @@ grid = [
   [0,0,0]
 ]
 print (validate(grid))
+print("The grid is valid")
